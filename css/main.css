@@ -92,6 +92,7 @@ body {
 }
 
 .question-area p {
+  text-align: center;
   padding-top: 1em;
 }
 
