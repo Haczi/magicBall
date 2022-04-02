@@ -63,6 +63,10 @@ body {
   cursor: pointer;
 }
 
+.ball-img img:focus {
+  outline: none;
+}
+
 .question-area {
   display: -webkit-box;
   display: -ms-flexbox;
