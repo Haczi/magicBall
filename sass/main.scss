@@ -47,6 +47,10 @@ body {
         left: 18%;
         width: 50%;
         cursor: pointer;
+
+        &:focus{
+            outline: none;
+        }
     }
 }
 .question-area{
@@ -89,6 +93,7 @@ body {
 
 .shake-animation{
     animation: shake 1s 1;
+
 }
 
 @keyframes shake {
